@@ -1,6 +1,6 @@
 # CapstoneProject
  
-This Capstone projects were developed in Python part of * POST GRADUATED DIPLOMA IN DATA SCIENCE (PGDDS) * from
+This Capstone projects were developed in Python part of POST GRADUATED DIPLOMA IN DATA SCIENCE (PGDDS) from
 INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 
 ## Courses Covered:
