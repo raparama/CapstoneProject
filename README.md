@@ -52,6 +52,14 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 
 </p>
 </li>
+
+<li>
+<p>
+
+**Stock Market Analysis:** MySQL analysis 20 Day and 50 Day moving averages of stock traders to determine whether to buy or sell a stock. Shorter-term moving average crosses above the longer-term moving average, it is a signal to BUY (Golden Cross) on the opposite it is a signal to SELL (Death Cross).
+
+</p>
+</li>
 <li>
 <p>
  
