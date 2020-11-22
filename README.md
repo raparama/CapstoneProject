@@ -76,6 +76,18 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 
 </p>
 </li>
+<li>
+<p>
+
+**Credit Card Fraud Detection:** Due to this steep increase in banking frauds, it is the need of the hour to detect these fraudulent transactions in time in order to help consumers as well as banks, who are losing their credit worth each day.
+**Model building:** Logistic Regression, Decision Tree, Random Forest, XGBoost
+**Class Imbalanced:** Undersampling, oversampling, SMOTE and ADASYN 
+**Hyoerparameter Tunning:** Corss-Validation, K-Fold Cross-Validation, Stratified K-Fold Cross-Validation
+**Boosing:** XGBoost, AdaBoost and Gradiant Boosing is used
+**Model Evaluation:** Precision, recall, confusion matrix, F1 score, AUC-ROC score
+
+</p>
+</li>
 
  
 </ol>
