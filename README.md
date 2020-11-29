@@ -6,7 +6,7 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
  <p>
 
-**[UBER Supply Demand – GAP](https://github.com/raparama/CapstoneProject/tree/master/01.%20UBER%20SUPPLY%20DEMAND%20GAP)** <br>
+**[UBER Supply Demand – GAP](https://github.com/raparama/CapstoneProject/tree/master/01.%20UBER%20SUPPLY%20DEMAND%20GAP)**
  - The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation.
  - This data set is a masked data set similar to what data analysts at Uber handle. 
  - Solved this assignment <em> using EDA and data visualisation Python, Pandas, Matplotlib, Seaborn </em>
@@ -17,7 +17,7 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
 <p>
  
-**[GDP Analysis](https://github.com/raparama/CapstoneProject/tree/master/02.%20GDP%20ANALYSIS)** <br>
+**[GDP Analysis](https://github.com/raparama/CapstoneProject/tree/master/02.%20GDP%20ANALYSIS)**
  - The overall goal of this project is to help the Chief Minister (CMs) focus on areas that will foster economic development for their respective states.
  - Analyse the GDP of the various states of India and suggest ways to improve.
  - The data sourced from https://data.gov.in/ an Open Government Data (OGD) platform of India.
