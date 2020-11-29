@@ -19,20 +19,21 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
  
 **[GDP Analysis](https://github.com/raparama/CapstoneProject/tree/master/02.%20GDP%20ANALYSIS)**
  - The overall goal of this project is to help the Chief Minister (CMs) focus on areas that will foster economic development for their respective states.
- - Analyse the GDP of the various states of India and suggest ways to improve.
- - The data sourced from https://data.gov.in/ an Open Government Data (OGD) platform of India.
+ - The data sourced from https://data.gov.in/ an Open Government Data (OGD) platform of India (Public Dataset).
    - First dataset comprises the GSDP (Gross State Domestic Product) data for the states and union territories.
    - Second dataset contains the distribution of GSDP among three sectors: the primary sector (agriculture), the secondary sector (industry) and the tertiary sector (services) along with taxes and subsidies
  - Solved this assignment <em> using Data Extract, Data cleaning, Data Analysis, EDA, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob. </em>
- - Highlighted key insights draw from this data.
+ - Analyse the GDP of the various states of India. Highlighted key insights draw from this data and suggest ways to improve
 
 </p>
 </li>
 <li>
 <p>
  
-**[Risk Analysis in Banking and Financial Services](https://github.com/raparama/CapstoneProject/tree/master/03.%20RISK%20ANALYSIS%20IN%20BANKING%20AND%20FINANCIAL%20SERVICES)** <br>
-Use analytics to minimize the risk of losing money while lending to customers. Use Data manipulation, visualization, and EDA skills to give loans to the people due to their insufficient or non-existent credit. <em> Python: Pandas, Numpy, Matplotlib, Seaborn, glob, datetime </em>
+**[Risk Analysis in Banking and Financial Services](https://github.com/raparama/CapstoneProject/tree/master/03.%20RISK%20ANALYSIS%20IN%20BANKING%20AND%20FINANCIAL%20SERVICES)**
+ - This case study aims to identify patterns which show if a client has difficulty paying their installments for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate. This will ensure that they do not reject the consumers capable of repaying the loan. 
+ - Applying EDA module techniques and understanding risk analytics in banking and financial services and how data is used to minimise the risk of losing money while lending to customers.
+ - Solved this assignment identify the <em> missing values, outliers, data imbalance, EDA results of univariate, segmented univariate, bivariate analysis, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime </em>
 
 </p>
 </li>
