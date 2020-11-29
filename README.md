@@ -7,7 +7,10 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
  <p>
 
 **[UBER Supply Demand – GAP](https://github.com/raparama/CapstoneProject/tree/master/01.%20UBER%20SUPPLY%20DEMAND%20GAP)** <br>
-Use analytics to identify why Uber sometimes faces a supply demand challenge and what we can do to overcome it. Use Data manipulation, visualization, and exploratory data analysis (EDA) skills to identify the problem faced by Uber. <em> Python: Pandas, Matplotlib, Seaborn </em> 
+ - The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation.
+ - This data set is a masked data set similar to what data analysts at Uber handle. 
+ - Solved this assignment <em> using EDA and data visualisation Python, Pandas, Matplotlib, Seaborn </em>
+ - The result of analysis present to the client, The problem root causes and hypotheses possible and recommend ways to improve.   </em> 
 
 </p>
 </li>
@@ -15,7 +18,13 @@ Use analytics to identify why Uber sometimes faces a supply demand challenge and
 <p>
  
 **[GDP Analysis](https://github.com/raparama/CapstoneProject/tree/master/02.%20GDP%20ANALYSIS)** <br>
-Use analytics the GDP of various states on areas that will foster economic development. Use Data manipulation, visualization, and EDA skills to suggest ways to improve economic development is the GDP. <em> Python: Pandas, Numpy, Matplotlib, Seaborn, glob </em>
+ - The overall goal of this project is to help the Chief Minister (CMs) focus on areas that will foster economic development for their respective states.
+ - Analyse the GDP of the various states of India and suggest ways to improve.
+ - The data sourced from https://data.gov.in/ an Open Government Data (OGD) platform of India.
+   - First dataset comprises the GSDP (Gross State Domestic Product) data for the states and union territories.
+   - Second dataset contains the distribution of GSDP among three sectors: the primary sector (agriculture), the secondary sector (industry) and the tertiary sector (services) along with taxes and subsidies
+ - Solved this assignment <em> using Data Extract, Data cleaning, Data Analysis, EDA, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob. </em>
+ - Highlighted key insights draw from this data.
 
 </p>
 </li>
