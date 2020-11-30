@@ -43,8 +43,8 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 **[Car Price Predictions](https://github.com/raparama/CapstoneProject/tree/master/04.%20CAR%20PRICE%20PREDICTIONS)** 
  - The management will use it to understand how the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
  - Solved this assignment
-   - Data preparation, Data Cleaning, outlier, EDA, Dummy Variables, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime 
-   - Multiple linear regression model us used prediction of car prices.
+   - Data preparation, Data Cleaning, outlier,Encoding (Binary 0/1), EDA, Dummy Variables, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime 
+   - Multiple linear regression model used prediction of car prices.
    - Residual Analysis performed to observe the difference between observed and predicted value of depended variable. 
    - R-Squared, VIF model evaluation performed.
  - The model will be a good way for management to understand the pricing dynamics of a new market. 
@@ -56,6 +56,11 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
  
 **[NGO Funding Program](https://github.com/raparama/CapstoneProject/tree/master/05.%20NGO%20FUNDING%20PROGRAM%20)** <br>
 Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis, SSD/Elbow Curve, K-means, and Hierarchical clustering, scaling and standardization build a model to decision mostly related to the countries are in the direst need of aid. <em> Python: Pandas, Numpy, Matplotlib, Seaborn, statsmodels, sklearn, scipy </em>
+- Help international NEO runs projects along with advocacy drives to raise awareness and for funding. The CEO of the NGO needs to decide using fund strategic and effective. The significant issues could occur during decision making is to choose the countries are in the direst need of aid. 
+- Data preparation, Data Cleaning, Encoding outlier, EDA, Dummy Variables, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime
+- Perform PCA on the dataset and with the k components with changed dataset, Silhouette Analysis, Scree Plot, SSD/Elbow Curve
+- K-means and Hierarchical clustering model used on this dataset
+- Recommended the clusters and the country in dire need of aid.
 
 </p>
 </li>
