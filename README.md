@@ -40,8 +40,14 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
 <p>
  
-**[Car Price Predictions](https://github.com/raparama/CapstoneProject/tree/master/04.%20CAR%20PRICE%20PREDICTIONS)** <br>
-Use EDA and Encoding, Dummy variables, scaling and standardization, VIF, Residual and test R-square and linear regression model of factors affecting the pricing of cars in the American market <em> Python: Pandas, Numpy, Matplotlib, Seaborn, statsmodels, sklearn </em>
+**[Car Price Predictions](https://github.com/raparama/CapstoneProject/tree/master/04.%20CAR%20PRICE%20PREDICTIONS)** 
+ - The management will use it to understand how the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
+ - Solved this assignment
+   - Data preparation, Data Cleaning, outlier, EDA, Dummy Variables, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime 
+   - Multiple linear regression model us used prediction of car prices.
+   - Residual Analysis performed to observe the difference between observed and predicted value of depended variable. 
+   - R-Squared, VIF model evaluation performed.
+ - The model will be a good way for management to understand the pricing dynamics of a new market. 
 
 </p>
 </li>
