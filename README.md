@@ -106,15 +106,26 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <p>
  
 **[Stock Market Analysis](https://github.com/raparama/CapstoneProject/tree/master/09.%20Stock%20Market%20Analysis)** MySQL analysis 20 Day and 50 Day moving averages of stock traders to determine whether to buy or sell a stock. Shorter-term moving average crosses above the longer-term moving average, it is a signal to BUY (Golden Cross) on the opposite it is a signal to SELL (Death Cross).
-
+- Creating Tables
+- Windows Function
+- Data type conversion
+- Date format and derive columns
+- With clause and Sub query  
+- Arithmetic, Aggreating, filtering and sorting
+- Multiple tables Join
 </p>
 </li>
 <li>
 <p>
  
 
-**[New York City Taxi](https://github.com/raparama/CapstoneProject/tree/master/10.%20New%20York%20City%20Taxt)** <br>
-Design and implement Big Data Solution to ingest, process and store data to New York can improve the efficiency of in-city commutes in real-time to create a 360-degree Big Data solution using tools like <em> Sqoop, Hive, HBase, Spark stores massive data sets on Hadoop and analyze them using MapReduce </em>
+**[New York City Taxi](https://github.com/raparama/CapstoneProject/tree/master/10.%20New%20York%20City%20Taxt)** Design and implement Big Data Solution to ingest, process and store data to New York can improve the efficiency of in-city commutes in real-time to create a 360-degree Big Data solution using tools like <em> Sqoop, Hive, HBase, Spark stores massive data sets on Hadoop and analyze them using MapReduce </em>
+- Create External and Managed tables
+- SerDe properties for file / Unstructured data load
+- Handling Date format and derive columns
+- Arithmetic, Aggreating, filtering and sorting 
+- Table Partitions
+- Sub Query
 
 </p>
 </li>
@@ -122,13 +133,12 @@ Design and implement Big Data Solution to ingest, process and store data to New 
 <p>
 <em>
  
-**[Credit Card Fraud Detection](https://github.com/raparama/CapstoneProject/tree/master/11.%20CreditCrad%20Fraud%20Detection)** <br>
-Due to this steep increase in banking frauds, it is the need of the hour to detect these fraudulent transactions in time in order to help consumers as well as banks, who are losing their credit worth each day.
-**Model building:** Logistic Regression, Decision Tree, Random Forest, XGBoost
-**Class Imbalanced:** Undersampling, oversampling, SMOTE and ADASYN 
-**Hyoerparameter Tunning:** Corss-Validation, K-Fold Cross-Validation, Stratified K-Fold Cross-Validation
-**Boosing:** XGBoost, AdaBoost and Gradiant Boosing is used
-**Model Evaluation:** Precision, recall, confusion matrix, F1 score, AUC-ROC score
+**[Credit Card Fraud Detection](https://github.com/raparama/CapstoneProject/tree/master/11.%20CreditCrad%20Fraud%20Detection)** Due to this steep increase in banking frauds, it is the need of the hour to detect these fraudulent transactions in time in order to help consumers as well as banks, who are losing their credit worth each day.
+- **Model building:** Logistic Regression, Decision Tree, Random Forest, XGBoost
+- **Class Imbalanced:** Undersampling, oversampling, SMOTE and ADASYN 
+- **Hyoerparameter Tunning:** Corss-Validation, K-Fold Cross-Validation, Stratified K-Fold Cross-Validation
+- **Boosing:** XGBoost, AdaBoost and Gradiant Boosing is used
+- **Model Evaluation:** Precision, recall, confusion matrix, F1 score, AUC-ROC score
 
 </em>
 
