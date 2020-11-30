@@ -81,8 +81,14 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
 <li>
 <p>
  
-**[Home Value Prediction](https://github.com/raparama/CapstoneProject/tree/master/07.%20HOME%20VALUE%20PREDICTION)** <br>
-Use EDA and Linear Regressing Modeling, ridge and lasso regression to predict the actual value of the prospective properties. <em> Python: Pandas, Numpy, Matplotlib, Seaborn, statsmodels, sklearn, scipy </em>
+**[Home Value Prediction](https://github.com/raparama/CapstoneProject/tree/master/07.%20HOME%20VALUE%20PREDICTION)**
+- Surprise Housing entered the Australian market. The company is looking at prospective properties to buy to enter the market. To purchase houses at a price below their actual values and flip them on at a higher price.
+- Solved this assignment
+  - Data understanding, Data cleaning, Data preparation, missing data, nulls and exploration.
+  - EDA results of univariate, segmented univariate, bivariate analysis, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob, statsmodels, sklearn, scipy.
+  - Regression model using regularisation. 
+  - Determine the optimal value of lambda for ridge and lasso regression.
+- This model provide the prospective properties and decide whether to invest in them.
 
 </p>
 </li>
