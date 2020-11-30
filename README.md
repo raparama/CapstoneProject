@@ -106,8 +106,7 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
   - Performed SMOTE Class imbalance.
   - Tune model hyperparameters.
   - Model Evaluation: confusion matrix, accuracy, sensitivity, specificity, AUC-ROC score.
-
-- This model predict understanding the typical customer behaviour during churn. 
+- This model predict understanding the typical customer behaviour during churn. 
 
 </p>
 </li>
