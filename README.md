@@ -96,8 +96,18 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
 <li>
 <p>
 
-**[Telecom Churn](https://github.com/raparama/CapstoneProject/tree/master/08.%20TELECOM%20CHURN)** <br>
-Use EDA, and PCA, Scree Plot, ROC, Hyper-parameters tuning, Random Forest, Feature selection, sensitivity, specificity, intercepts and coefficients, Dimensional Reduction, Classification techniques and Train verity of the model and test the models using appropriate evaluation metrics to mitigate customer churn problems. <em> Python: Pandas, Numpy, Matplotlib, Seaborn, statsmodels, sklearn, scipy, ItrativeImputer, SMOTE </em>
+**[Telecom Churn](https://github.com/raparama/CapstoneProject/tree/master/08.%20TELECOM%20CHURN)** 
+- Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. Analysing customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the key indicators of churn.
+- Solved this assignment
+  - Data understanding, Data cleaning, Data preparation, missing values, handeling nulls.
+  - EDA results of univariate, segmented univariate, bivariate analysis, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob, statsmodels, sklearn, scipy, MICE, ItrativeImputer, SMOTE.
+  - Dimensionality reduction technique such as PCA
+  - Logistic regression and Random Forest.
+  - Performed SMOTE Class imbalance.
+  - Tune model hyperparameters.
+  - Model Evaluation: confusion matrix, accuracy, sensitivity, specificity, AUC-ROC score.
+
+- This model predict understanding the typical customer behaviour during churn. 
 
 </p>
 </li>
