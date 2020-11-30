@@ -6,8 +6,7 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
  <p>
 
-**[UBER Supply Demand – GAP](https://github.com/raparama/CapstoneProject/tree/master/01.%20UBER%20SUPPLY%20DEMAND%20GAP)**
- - The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation.
+**[UBER Supply Demand – GAP](https://github.com/raparama/CapstoneProject/tree/master/01.%20UBER%20SUPPLY%20DEMAND%20GAP)** The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation.
  - This data set is a masked data set similar to what data analysts at Uber handle. 
  - Solved this assignment <em> using EDA and data visualisation Python, Pandas, Matplotlib, Seaborn </em>
  - The result of analysis present to the client, The problem root causes and hypotheses possible and recommend ways to improve.   </em> 
@@ -17,8 +16,7 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
 <p>
  
-**[GDP Analysis](https://github.com/raparama/CapstoneProject/tree/master/02.%20GDP%20ANALYSIS)**
- - The overall goal of this project is to help the Chief Minister (CMs) focus on areas that will foster economic development for their respective states.
+**[GDP Analysis](https://github.com/raparama/CapstoneProject/tree/master/02.%20GDP%20ANALYSIS)** The overall goal of this project is to help the Chief Minister (CMs) focus on areas that will foster economic development for their respective states.
  - The data sourced from https://data.gov.in/ an Open Government Data (OGD) platform of India (Public Dataset).
    - First dataset comprises the GSDP (Gross State Domestic Product) data for the states and union territories.
    - Second dataset contains the distribution of GSDP among three sectors: the primary sector (agriculture), the secondary sector (industry) and the tertiary sector (services) along with taxes and subsidies
@@ -30,8 +28,7 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
 <p>
  
-**[Risk Analysis in Banking and Financial Services](https://github.com/raparama/CapstoneProject/tree/master/03.%20RISK%20ANALYSIS%20IN%20BANKING%20AND%20FINANCIAL%20SERVICES)**
- - This case study aims to identify patterns which show if a client has difficulty paying their installments for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate. This will ensure that they do not reject the consumers capable of repaying the loan. 
+**[Risk Analysis in Banking and Financial Services](https://github.com/raparama/CapstoneProject/tree/master/03.%20RISK%20ANALYSIS%20IN%20BANKING%20AND%20FINANCIAL%20SERVICES)** This case study aims to identify patterns which show if a client has difficulty paying their installments for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate. This will ensure that they do not reject the consumers capable of repaying the loan. 
  - Applying EDA module techniques and understanding risk analytics in banking and financial services and how data is used to minimise the risk of losing money while lending to customers.
  - Solved this assignment identify the <em> missing values, outliers, data imbalance, EDA results of univariate, segmented univariate, bivariate analysis, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime </em>
 
@@ -40,8 +37,7 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
 <p>
  
-**[Car Price Predictions](https://github.com/raparama/CapstoneProject/tree/master/04.%20CAR%20PRICE%20PREDICTIONS)** 
- - The management will use it to understand how the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
+**[Car Price Predictions](https://github.com/raparama/CapstoneProject/tree/master/04.%20CAR%20PRICE%20PREDICTIONS)** The management will use it to understand how the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
  - Solved this assignment
    - Data preparation, Data Cleaning, outlier,Encoding (Binary 0/1), EDA, Dummy Variables, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime 
    - Multiple linear regression model used prediction of car prices.
@@ -54,8 +50,7 @@ INTERNATIONAL INSTITUTION OF INFORMATION TECHNOLOGY–(IIIT-B)
 <li>
 <p>
  
-**[NGO Funding Program](https://github.com/raparama/CapstoneProject/tree/master/05.%20NGO%20FUNDING%20PROGRAM%20)** <br>
-Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis, SSD/Elbow Curve, K-means, and Hierarchical clustering, scaling and standardization build a model to decision mostly related to the countries are in the direst need of aid. <em> Python: Pandas, Numpy, Matplotlib, Seaborn, statsmodels, sklearn, scipy </em>
+**[NGO Funding Program](https://github.com/raparama/CapstoneProject/tree/master/05.%20NGO%20FUNDING%20PROGRAM%20)** Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis, SSD/Elbow Curve, K-means, and Hierarchical clustering, scaling and standardization build a model to decision mostly related to the countries are in the direst need of aid. <em> Python: Pandas, Numpy, Matplotlib, Seaborn, statsmodels, sklearn, scipy </em>
 - Help international NEO runs projects along with advocacy drives to raise awareness and for funding. The CEO of the NGO needs to decide using fund strategic and effective. The significant issues could occur during decision making is to choose the countries are in the direst need of aid. 
 - Data preparation, Data Cleaning, Encoding outlier, EDA, Dummy Variables, Data Visualisations Python, Pandas, Numpy, Matplotlib, Seaborn, glob, datetime
 - Perform PCA on the dataset and with the k components with changed dataset, Silhouette Analysis, Scree Plot, SSD/Elbow Curve
@@ -67,8 +62,7 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
 <li>
 <p>
  
-**[Lead Scoring](https://github.com/raparama/CapstoneProject/tree/master/06.%20LEAD%20SCORING)**
-- X Education selects the most promising leads. The company requires building a model given a ballpark of the target lead conversion rate to be around 80%. The customers with higher lead score have a higher conversion chance, and the customers with lower lead score have a lower conversion chance.
+**[Lead Scoring](https://github.com/raparama/CapstoneProject/tree/master/06.%20LEAD%20SCORING)** X Education selects the most promising leads. The company requires building a model given a ballpark of the target lead conversion rate to be around 80%. The customers with higher lead score have a higher conversion chance, and the customers with lower lead score have a lower conversion chance.
 - Solved this assignment
   - Data Extract,  Data Cleaning and Preparation, Data Analysis, handling missing values, Encoding, Dummy Variables, outlier and scaling. 
   - EDA results of univariate, segmented univariate, bivariate analysis, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob.
@@ -81,8 +75,7 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
 <li>
 <p>
  
-**[Home Value Prediction](https://github.com/raparama/CapstoneProject/tree/master/07.%20HOME%20VALUE%20PREDICTION)**
-- Surprise Housing entered the Australian market. The company is looking at prospective properties to buy to enter the market. To purchase houses at a price below their actual values and flip them on at a higher price.
+**[Home Value Prediction](https://github.com/raparama/CapstoneProject/tree/master/07.%20HOME%20VALUE%20PREDICTION)** Surprise Housing entered the Australian market. The company is looking at prospective properties to buy to enter the market. To purchase houses at a price below their actual values and flip them on at a higher price.
 - Solved this assignment
   - Data understanding, Data cleaning, Data preparation, missing data, nulls and exploration.
   - EDA results of univariate, segmented univariate, bivariate analysis, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob, statsmodels, sklearn, scipy.
@@ -96,8 +89,7 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
 <li>
 <p>
 
-**[Telecom Churn](https://github.com/raparama/CapstoneProject/tree/master/08.%20TELECOM%20CHURN)** 
-- Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. Analysing customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the key indicators of churn.
+**[Telecom Churn](https://github.com/raparama/CapstoneProject/tree/master/08.%20TELECOM%20CHURN)** Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. Analysing customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the key indicators of churn.
 - Solved this assignment
   - Data understanding, Data cleaning, Data preparation, missing values, handeling nulls.
   - EDA results of univariate, segmented univariate, bivariate analysis, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob, statsmodels, sklearn, scipy, MICE, ItrativeImputer, SMOTE.
@@ -113,8 +105,7 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
 <li>
 <p>
  
-**[Stock Market Analysis](https://github.com/raparama/CapstoneProject/tree/master/09.%20Stock%20Market%20Analysis)** <br>
-MySQL analysis 20 Day and 50 Day moving averages of stock traders to determine whether to buy or sell a stock. Shorter-term moving average crosses above the longer-term moving average, it is a signal to BUY (Golden Cross) on the opposite it is a signal to SELL (Death Cross).
+**[Stock Market Analysis](https://github.com/raparama/CapstoneProject/tree/master/09.%20Stock%20Market%20Analysis)** MySQL analysis 20 Day and 50 Day moving averages of stock traders to determine whether to buy or sell a stock. Shorter-term moving average crosses above the longer-term moving average, it is a signal to BUY (Golden Cross) on the opposite it is a signal to SELL (Death Cross).
 
 </p>
 </li>
