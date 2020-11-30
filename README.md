@@ -69,13 +69,12 @@ Use EDA and Principal Component Analysis (PCA), Scree Plot, Silhouette Analysis,
  
 **[Lead Scoring](https://github.com/raparama/CapstoneProject/tree/master/06.%20LEAD%20SCORING)**
 - X Education selects the most promising leads. The company requires building a model given a ballpark of the target lead conversion rate to be around 80%. The customers with higher lead score have a higher conversion chance, and the customers with lower lead score have a lower conversion chance.
-- Data Extract,  Data Cleaning and Preparation, Data Analysis, handling missing values, Encoding, Dummy Variables, outlier and scaling. 
-- EDA results of univariate, segmented univariate, bivariate analysis, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob.
-- Logistic regression model to assign a lead score between 0 and 100 to each of the leads 
-- Model Evaluation: confusion matrix, accuracy, sensitivity, specificity, AUC-ROC score
+- Solved this assignment
+  - Data Extract,  Data Cleaning and Preparation, Data Analysis, handling missing values, Encoding, Dummy Variables, outlier and scaling. 
+  - EDA results of univariate, segmented univariate, bivariate analysis, Feature Engineering and data visualisation Python, Pandas, Numpy, Matplotlib, Seaborn, glob.
+  - Logistic regression model to assign a lead score between 0 and 100 to each of the leads 
+  - Model Evaluation: confusion matrix, accuracy, sensitivity, specificity, AUC-ROC score
 - This model predicts the 80% ballpark of the target lead conversion rate.
-
-
 
 </p>
 </li>
